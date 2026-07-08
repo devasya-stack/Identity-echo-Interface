@@ -1,6 +1,6 @@
 # The Identity Echo Interface
 
-A simple Streamlit application developed as part of the MirAI School of Technology Virtual Summer Internship 2026.
+A simple Streamlit application developed as part of the MirAI School of Technology Summer Internship 2026.
 
 ## Features
 - Takes user's name and message
